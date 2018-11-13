@@ -6,7 +6,8 @@
 
 ## Install
 
-coming soon
+### Install using Package Control
+If you are using [Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Dank Neon via the `Package Control: Install Package` menu item. The Dank Neon package is listed as `Dank Neon` in the packages list.
 
 ## Team
 
